@@ -1,0 +1,38 @@
+E:\project\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe.config
+E:\project\Hospital\Hospital\Hospital\bin\Debug\Hospital.exe
+E:\project\Hospital\Hospital\Hospital\bin\Debug\Hospital.pdb
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.exe
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.pdb
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Login.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.Receptionist.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.MngDoc.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.MngRec.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.MngCab.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.MngPat.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.ViewDoc.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.MngApt.resources
+E:\project\Hospital\Hospital\Hospital\obj\Debug\Hospital.SelectTime.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\bin\Debug\Hospital.exe.config
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\bin\Debug\Hospital.exe
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\bin\Debug\Hospital.pdb
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.csprojAssemblyReference.cache
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.MngApt.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.SelectTime.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.ViewDoc.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.Receptionist.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.Admin.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.Login.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.Doctor.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.MngDoc.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.MngCab.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.MngPat.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.MngRec.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.Properties.Resources.resources
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.csproj.GenerateResource.cache
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.exe
+C:\Users\ASUS\Desktop\C# Project\Hospital\Hospital\obj\Debug\Hospital.pdb
